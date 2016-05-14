@@ -39,7 +39,7 @@ int main()
 
     //All the computations are now done. We will print the results for the user.
 
-    printf("Your total free month(s) using iBell’s service is: %d \n", freeMonths);
+    printf("Your total free month(s) using iBellâ€™s service is: %d \n", freeMonths);
     printf("Your total charge including taxes is: %.2lf \n", totalCharge);
     printf("The swipe fee paid to Mastercard is: %.2lf \n", swipeFee);
     printf("The fee paid to use Apple Pay is: %.2lf \n", appFee);
